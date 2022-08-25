@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-md-4">
+        <div className="col-md-4">    
               <h1>{titulo}</h1>
               <p>{comision}</p>
               <p>{descripcion}</p>
